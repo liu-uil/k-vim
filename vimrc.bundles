@@ -634,6 +634,8 @@ call plug#end()
     " thank to @ListenerRi, see https://github.com/wklken/k-vim/issues/165
     let g:nerdtree_tabs_open_on_console_startup=0
     let g:nerdtree_tabs_open_on_gui_startup=0
+    let g:NERDTreeShowBookmarks=1
+    let g:NERDTreeWinPos="right"
 " }}}
 
 
